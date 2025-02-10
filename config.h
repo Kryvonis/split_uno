@@ -3,7 +3,7 @@
 #define SOFT_SERIAL_PIN GP1
 // #define USE_SERIAL
 // #define EE_HANDS
-#define MASTER_RIGHT
+#define MASTER_LEFT
 // #define SPLIT_HAND_PIN GP22
 // #define SERIAL_USART_FULL_DUPLEX  // Enable full-duplex serial communication
 // #define SERIAL_USART_TX_PIN GP0   // Define the TX pin (e.g., GP0)
@@ -18,7 +18,7 @@
 #define SPI_SCK_PIN                          GP18
 #define SPI_MOSI_PIN                         GP19
 #define SPI_MISO_PIN                         GP20
-#define POINTING_DEVICE_TASK_THROTTLE_MS 1
+#define POINTING_DEVICE_TASK_THROTTLE_MS 5
 #define PMW33XX_LIFTOFF_DISTANCE 0x02
 
 // Pin definitions for the left half
