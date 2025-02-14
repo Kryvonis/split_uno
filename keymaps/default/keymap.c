@@ -60,7 +60,6 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
                              MS_BTN2,   DRAG_SCROLL,   KC_BACKSPACE,   KC_SPACE,      LT(_CL,KC_ENT),
                                                    KC_DEL,         MT(MOD_LALT, DRAG_SCROLL),       KC_LGUI,
-ASDFasdfASDF
 
 
 
