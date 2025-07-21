@@ -1,6 +1,7 @@
 #pragma once
 
 #define SOFT_SERIAL_PIN GP1
+#define TAPPING_TERM 150
 // #define USE_SERIAL
 // #define EE_HANDS
 #define MASTER_LEFT
