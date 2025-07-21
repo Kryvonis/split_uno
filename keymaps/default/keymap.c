@@ -67,7 +67,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
         KC_CAPS,     KC_6,     KC_7,     KC_8,      KC_9,      KC_0,      KC_EQL,
         KC_TAB,      KC_Y,     KC_U,     KC_I,      KC_O,      KC_P,      KC_MINS,
         KC_RBRC,     KC_H,     KC_J,     KC_K,      KC_L,      KC_SCLN,   KC_QUOT,
-        KS_BSLS,     KC_N,     KC_M,     KC_COMM,   KC_DOT,    KC_SLSH,   KC_RSFT,
+        KC_BSLS,     KC_N,     KC_M,     KC_COMM,   KC_DOT,    KC_SLSH,   KC_RSFT,
 
         DRAG_SCROLL,  KC_BACKSPACE, LT(_CL, KC_DEL),  LT(_FL,KC_ENT),    MS_BTN1,   MS_BTN2
     ),
