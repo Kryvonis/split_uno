@@ -29,3 +29,9 @@ Enter the bootloader in 3 ways:
 
 ### build 
 qmk compile -kb handwired/split_uno -km default
+
+
+to build and flash 
+* `Go to qmk_firmware and create symbol link "ln -s" /home/user/...split_uno`
+* `Run qmk compile -kb split_uno -km default`
+* `Run qmk flash -kb split_uno -km default`
